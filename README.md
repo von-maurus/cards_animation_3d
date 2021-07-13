@@ -1,6 +1,6 @@
 # cards_animation_3d
 
-Aplicacion que muestra una lista de albums utilizando Cards y distintas animaciones para deslizar, ver y desplegar los albums de musica. Challenge de Diegoveloper
+Aplicacion que muestra una lista de albums utilizando Cards y distintas animaciones para deslizar, ver y desplegar los albums de musica. Challenge de @diegoveloper
 
 ## Getting Started
 
